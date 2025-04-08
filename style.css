@@ -54,7 +54,7 @@ h3{
 
 .main-btn{
     text-decoration:none ;
-    background-color: blue;
+    background-color: rgb(255, 3, 3);
     font-size: 1.1em;
     display: inline-block;
     border-radius: 15px;
